@@ -34,7 +34,7 @@
 - Heat resistance (how much heat does it take before failing integrity)
 - Shrinking
 - Thin part warping
-- VOCs (how? Arduino VOC sensor? which?)
+- VOCs (how? [Arduino VOC sensor?](https://www.youtube.com/watch?v=gdFb6-4bsHk) which?)
 
 
 ---
