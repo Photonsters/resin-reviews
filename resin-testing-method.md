@@ -5,7 +5,7 @@
 
 - Density uncured (Advertised / Mesured - weigh/volume)
 - Density cured (Advertised / Mesured - weigh/volume)
-- Viscosity (Advertised / Mesured - Need a density cup or 45ºtestrig ramp?/(printed cup?)[https://www.youtube.com/watch?v=t5KQFpNGrQA])
+- Viscosity (Advertised / Mesured - Need a density cup or 45ºtestrig ramp?/[printed cup?](https://www.youtube.com/watch?v=t5KQFpNGrQA))
 - Color pre-cure (subjective + controlled light photo of a break sample? Arduino Color sensor)
 - Color post-cure (subjective + controlled light photo of a break sample? Arduino color sensor?)
 - Smell (subjective test - Check if the VOC sensosrs can detect a smelly resin from a non smelly one)
