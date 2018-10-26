@@ -32,6 +32,7 @@
 - Heat resistance (how much heat does it take before failing integrity)
 - Shrinking
 - Thin part warping
+- VOCs (how?)
 
 
 ---
