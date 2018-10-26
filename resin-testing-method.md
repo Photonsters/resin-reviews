@@ -6,8 +6,8 @@
 - Density uncured (Advertised / Mesured - weigh/volume)
 - Density cured (Advertised / Mesured - weigh/volume)
 - Viscosity (Advertised / Mesured - Need a density cup or 45º test rig/ramp)
-- Color pre-cure (controlled light photo of a break sample?)
-- Color post-cure (controlled light photo of a break sample?)
+- Color pre-cure (subjective + controlled light photo of a break sample? Arduino Color sensor)
+- Color post-cure (subjective + controlled light photo of a break sample? Arduino color sensor?)
 - Smell (subjective test - Check if the VOC sensosrs can detect a smelly resin from a non smelly one)
 
 - Exposure sweet spot
@@ -34,7 +34,7 @@
 - Heat resistance (how much heat does it take before failing integrity)
 - Shrinking
 - Thin part warping
-- VOCs (how?)
+- VOCs (how? Arduino VOC sensor? which?)
 
 
 ---
