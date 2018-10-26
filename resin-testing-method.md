@@ -3,7 +3,9 @@
 - Cost per kg
 - Availability (distribuitors)
 
-- Density (Anounced / Mesured - Need a density cup) 
+- Density uncured (Advertised / Mesured - weigh/volume)
+- Density cured (Advertised / Mesured - weigh/volume)
+- Viscosity (Advertised / Mesured - Need a density cup or 45º test rig/ramp)
 - Color pre-cure (controlled light photo of a break sample?)
 - Color post-cure (controlled light photo of a break sample?)
 - Smell (subjective test - Check if the VOC sensosrs can detect a smelly resin from a non smelly one)
