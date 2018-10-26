@@ -30,6 +30,8 @@
 - Burn test (does it leave ash)
 - Suitable for casting? (define test method)
 - Heat resistance (how much heat does it take before failing integrity)
+- Shrinking
+- Thin part warping
 
 
 ---
