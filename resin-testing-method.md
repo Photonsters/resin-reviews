@@ -14,7 +14,8 @@
 - Dimensional Accuracy
 - Detail holding at sweet spot (select or create a photonsters test like [ameratown](https://ameralabs.com/blog/town-calibration-part/) for confirmation)
 - Minimum support size @50u layer (develop a test)
-
+- Exotermic reaction on a cup
+- Resin Sedimentation and setting over 24h period
 - Washing solvent
 
 ## POST CURE TESTS
