@@ -21,6 +21,7 @@
 
 ### BREAK TESTS (needs the OpenSource UTM machine)
 
+- Exposure Card Bending results (does it break or does it flex)
 - Manual Subjective break test
 - Manual Mesured KG @ break
 - Kg at tensile break (Tensile strenght)
