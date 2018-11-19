@@ -12,7 +12,7 @@
 - Exposure sweet spot
 - Exposure range
 - Dimensional Accuracy
-- Detail holding at Over/Center/Under exposure (select or create a photonsters test like [ameratown](https://ameralabs.com/blog/town-calibration-part/) for confirmation)
+- Detail holding at sweet spot (select or create a photonsters test like [ameratown](https://ameralabs.com/blog/town-calibration-part/) for confirmation)
 - Minimum support size @50u layer (develop a test)
 
 - Washing solvent
