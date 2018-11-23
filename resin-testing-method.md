@@ -17,6 +17,7 @@
 - Exotermic reaction on a cup
 - Resin Sedimentation and setting over 24h OR 48h period (over a black and winte paper run the spatula and check for separation)
 - Washing solvent
+- Uncured resin reactivity (set various materials like sharpie ink, acrilic ink and enamel and let a drip of resin over these - see what inks are stripped by the resin blob)
 
 ## POST CURE TESTS
 
@@ -28,6 +29,7 @@
 - Kg at tensile break (Tensile strenght)
 - Kg at 3 point break (Break force)
 - Kg at compression failure
+- Chemical Resistance ( test regular solvents acids and bases by letting a drop sit on a sample for 24h - Acetic Acid, Citric Acid, Cloridric acid, Bleach, Sodium Hidroxide, Sintethic Solvent, Celulose solvent, Toluene, Clorophorm, Hexane)
 
 
 ### OTHER TESTS
