@@ -29,7 +29,7 @@
 - Kg at tensile break (Tensile strenght)
 - Kg at 3 point break (Break force)
 - Kg at compression failure
-- Chemical Resistance ( test regular solvents acids and bases by letting a drop sit on a sample for 24h - Acetic Acid, Citric Acid, Cloridric acid, Bleach, Sodium Hidroxide, Sintethic Solvent, Celulose solvent, Toluene, Clorophorm, Hexane)
+- Chemical Resistance ( test regular solvents acids and bases by letting a drop sit on a sample for 24h - Acetic Acid, Citric Acid, Cloridric acid, Etanol, Acetone, Isopropil, WD40, Bleach, Sodium Hidroxide, Sintethic Solvent, Celulose solvent, Toluene, Clorophorm, Hexane)
 
 
 ### OTHER TESTS
