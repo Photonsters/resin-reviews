@@ -33,12 +33,13 @@
 
 ### OTHER TESTS
 
-**Machinability**
+**Machinability & Finishing**
 - Can it be sanded
 - Can it be tapped
 - Can it be drilled
 - Can it be polished
 - Friction (rub 2 parts of the same resin together, do they scratch or crumble)
+- Can it be painted (does it hold Acrilic Paint)
 
 **Orther Tests**
 - Burn test (does it ignite, if so does it leave ash)
