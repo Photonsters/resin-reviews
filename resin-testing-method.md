@@ -38,6 +38,8 @@
 - Can it be tapped
 - Can it be drilled
 - Can it be polished
+- Friction (rub 2 parts of the same resin together, do they scratch or crumble)
+
 **Orther Tests**
 - Burn test (does it ignite, if so does it leave ash)
 - Suitable for casting? (define test method)
@@ -47,6 +49,8 @@
 - VOCs (how? [Arduino VOC sensor?](https://www.youtube.com/watch?v=gdFb6-4bsHk) which?)
 - Chemical Resistance ( test regular solvents acids and bases by letting a drop sit on a sample for 24h - Acetic Acid, Citric Acid, Cloridric acid, Etanol, Acetone, Isopropil, WD40, Brake Oil, Petrol, Bleach, Sodium Hidroxide, Sintethic Solvent, Celulose solvent, Toluene, Clorophorm, Hexane)
 
+### Usefull links
 
+- [Choosing a prototype material - By Formlabs](https://formlabs.com/blog/choosing-prototyping-material-mechanical-properties/?fbclid=IwAR29Gn-cBMwejzY5FbDc3xmbWYgPI-SckFa465xuPKL9Nh6WLpRWeufeMxQ)
 
 ---
