@@ -30,9 +30,9 @@ overcured/undercured and help you establish a working range.
 
 ```
 *Optional Steps
-- Log Color before curing
-- Log Color after curing
-- Log Color after a week
+- Log Color before curing (subjective naming or photo)
+- Log Color after curing (subjective naming or photo)
+- Log Color after a week (subjective naming or photo)
 ```
 
 ---
