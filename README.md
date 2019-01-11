@@ -13,6 +13,7 @@ Project to define test collect and compile UV resin tests and results for the Ph
 - Log the go-nogo result
 - Submit the results and photos using [this form] 
 
+
 > * *Optional Steps - these steps will allow you to confirm how your resin does when overcured/undercured and define a working range 
 > - Re-print the validation model with overcuring
 > - Re-print the validation model with undercuring *
@@ -22,6 +23,7 @@ Project to define test collect and compile UV resin tests and results for the Ph
 ## TIER 0 - Basic Resin Properties
 
 - Bend XP card and log the result
+
 
 > * *Optional Steps
 > - Log Color before curing
