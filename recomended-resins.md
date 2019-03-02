@@ -1,16 +1,19 @@
 
-#Strenght
+# Strenght
 
 - Siraya Blu
 - eSun3D Bioresin PLA
 
 
-#Detail
+# Detail
 
 - Ameralabs AM3D
 
+# Good general resin
+- Anycubic Green/ Black/ White
 
-#Everyday economy use
 
-- FTD industrial
+# Economy use
+
+- FTD Industrial
 - ELEGOO 3D Rapid Resin LCD
