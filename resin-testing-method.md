@@ -19,6 +19,10 @@
 - Washing solvent
 - Uncured resin reactivity (set various materials like sharpie ink, acrilic ink and enamel and let a drip of resin over these - see what inks are stripped by the resin blob)
 
+## TAKING PICTURES
+http://whitedisplay.com/
+
+
 ## POST CURE TESTS
 
 ### BREAK TESTS (needs the OpenSource UTM machine)
