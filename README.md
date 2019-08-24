@@ -27,6 +27,7 @@ overcured/undercured and help you establish a working range.
 ## TIER 0 - Basic Resin Properties
 
 - Bend XP card and log the result
+- Machinability - Drill and Tap ability
 
 ```
 *Optional Steps
